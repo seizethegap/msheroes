@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/ThePack/!svn/ver/82/ThePack
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/82/ThePack/logging.properties
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ThePack/!svn/ver/82/ThePack/db.properties
+END
+launch_login.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/82/ThePack/launch_login.bat
+END
+world.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/82/ThePack/world.truststore
+END
+login.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ThePack/!svn/ver/82/ThePack/login.keystore
+END
+filename.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ThePack/!svn/ver/82/ThePack/filename.keystore
+END
+launch_world.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/82/ThePack/launch_world.bat
+END
+channel.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/82/ThePack/channel.keystore
+END
+login.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/82/ThePack/login.truststore
+END
+world.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/82/ThePack/world.properties
+END
+channel.truststore
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/82/ThePack/channel.truststore
+END
+recvops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/82/ThePack/recvops.properties
+END
+STARTER.bat
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ThePack/!svn/ver/82/ThePack/STARTER.bat
+END
+sendops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/82/ThePack/sendops.properties
+END
+login.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ThePack/!svn/ver/82/ThePack/login.properties
+END
+world.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ThePack/!svn/ver/82/ThePack/world.keystore
+END
+channel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/82/ThePack/channel.properties
+END
+launch_channel.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ThePack/!svn/ver/82/ThePack/launch_channel.bat
+END
